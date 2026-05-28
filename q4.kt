@@ -1,8 +1,6 @@
 fun main() {
     var a = 58
-    //print("Enter a number: ")
-    //val a = readLine()!!.toInt
-	  var rem=0
+	var rem=0
     var rev=0
     val b=a
     while (a>0){
