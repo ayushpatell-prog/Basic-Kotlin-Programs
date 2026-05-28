@@ -1,6 +1,7 @@
 fun main() {
-    print("Enter a number: ")
-    val a = readLine()!!.toInt
+    val a = 6
+    //print("Enter a number: ")
+    //val a = readLine()!!.toInt
 
     if (a % 2 == 0) {
         println("$a is Even")
